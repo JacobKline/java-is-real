@@ -1,4 +1,5 @@
-public class jakeworks{
+public class jakeworks
+{
     public static void main (String args[])
     {
 
