@@ -1,4 +1,5 @@
-public class jakeworks
+package java;
+public class Jakeworks
 {
     public static void main (String args[])
     {
